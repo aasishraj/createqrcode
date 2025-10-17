@@ -1,6 +1,6 @@
 [package]
 name = "createqrcode"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Aasish Raj mail@aasishraj.com"]
 description = "A CLI tool to convert data into QR codes"
